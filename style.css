@@ -99,3 +99,7 @@ body {
   background-color: var(--line-border-empty);
   cursor: not-allowed;
 }
+
+.shalaye {
+  color: white;
+}
